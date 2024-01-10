@@ -18,7 +18,7 @@
 ##### • 주택 관리 업체 실시간 주택 수리기사 업무 현황 확인 기능
 
 ## 📄 프로그램 구성도 및 설문조사
-![12314](https://github.com/inhwanGit/HelpHomes/assets/132810591/e5facd7c-1eb7-46ca-af51-2ae363c435ef)
+![12314](https://github.com/inhwanGit/HelpHomes/assets/132810591/07d3310f-ffb2-4922-96ee-615d35efe346)
 ![ㅁㄴㅇㅁㄴㅇ](https://github.com/inhwanGit/HelpHomes/assets/132810591/5e91ea71-a18b-4b56-b12b-a37d6139582d)
 
 ## 👀 거주자 서비스 화면
