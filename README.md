@@ -22,7 +22,7 @@
 ![ㅁㄴㅇㅁㄴㅇ](https://github.com/inhwanGit/HelpHomes/assets/132810591/5e91ea71-a18b-4b56-b12b-a37d6139582d)
 
 ## 👀 거주자 서비스 화면
-![ㅁㄴㅇ564ㅁㄴ56ㅇ](https://github.com/inhwanGit/LivingLab/assets/132810591/52c02d29-3085-4dcc-bf77-9918e301d043)
+![ㅁㄴㅇ45](https://github.com/inhwanGit/HelpHomes/assets/132810591/dcbe10ea-36f0-4719-a3b7-e75d9f301e33)
 ![ㅁㄴ아ㅣㅓㅁ니ㅏ](https://github.com/inhwanGit/HelpHomes/assets/132810591/171500b5-ad72-4388-b6a8-4370d964caa0)
 ![ㅂㅈㄷㅂㅈㄷ](https://github.com/inhwanGit/HelpHomes/assets/132810591/1701feb4-052b-42be-b240-e272f6e67436)
 ![ㅋㅌㅊ456](https://github.com/inhwanGit/HelpHomes/assets/132810591/0e1910ff-6ea0-4e86-9e75-3a1a6943e6a1)![ㅁㄴ이ㅏㅁ너ㅏㅇ](https://github.com/inhwanGit/HelpHomes/assets/132810591/e6a3dd6c-3c67-448e-a4c7-07c97afa150e)
